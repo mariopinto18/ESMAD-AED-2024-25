@@ -1,0 +1,7 @@
+Portugal;Europa
+Espanha;Europa
+Tailandia;Asia
+Suecia;Europa
+Japao;Asia
+Romenia;Europa
+Austria;Europa
