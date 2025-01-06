@@ -1,0 +1,7 @@
+Muse1.jpg;Ghosts;Ghosts.mp3
+Muse2.jpg;Verona;Ghosts.mp3
+BillieEilish1.jpg;What Was I Made For?;BillieEilish.mp3
+PearlJam1.jpg;Black;Black.mp3
+RadioHead1.jpg;Creep;Creep.mp3
+
+
