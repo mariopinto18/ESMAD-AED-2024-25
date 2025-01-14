@@ -1,0 +1,6 @@
+Muse1.jpg;Ghosts;https://www.youtube.com/watch?v=XV1lQueVVxg
+Muse2.jpg;Verona;https://www.youtube.com/watch?v=NN1OtIJu_Bk
+BillieEilish1.jpg;What Was I Made For?;https://www.youtube.com/watch?v=cW8VLC9nnTo
+PearlJam1.jpg;Black;https://www.youtube.com/watch?v=qgaRVvAKoqQ
+RadioHead1.jpg;Creep;https://www.youtube.com/watch?v=l5t9IXtTr6g
+
